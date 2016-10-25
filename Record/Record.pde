@@ -23,9 +23,7 @@ boolean playing = false;
 boolean recording = false;
 
 IntList maxLength;
-String  step1 = "Press spacebar and after the thrid tone, count every second to 20 seconds and press again";
-String  step3 = "Press spacebar to hear the playback of yours and all previous recordings";
-
+String  step1 = "Press the spacebar and after the third tone, count every second to 20 seconds and press the spacebar again";
 
 
 // for playing back
